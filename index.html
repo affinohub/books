@@ -568,19 +568,21 @@
   }
 
   .author-avatar {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
-    background: linear-gradient(135deg, var(--rose-mid), var(--lavender));
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 3.5rem;
-    font-weight: 300;
-    color: var(--text-dark);
+    overflow: hidden;
     flex-shrink: 0;
-    border: 3px solid rgba(196,135,143,0.3);
+    border: 4px solid rgba(196,135,143,0.35);
+    box-shadow: 0 8px 32px rgba(58,48,56,0.25);
+  }
+
+  .author-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    display: block;
   }
 
   .author-text h2 {
@@ -742,7 +744,7 @@
     <ul class="nav-links">
       <li><a href="#books">Books</a></li>
       <li><a href="#about">About</a></li>
-      <li><a href="https://www.amazon.com/author/evelynhartwell" target="_blank" class="nav-amazon-btn">View on Amazon ↗</a></li>
+      <li><a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank" class="nav-amazon-btn">View on Amazon ↗</a></li>
     </ul>
   </div>
 </nav>
@@ -754,7 +756,7 @@
     <p>Gentle guides for inner peace, emotional wellness, and the quiet journey back to yourself. Each book a step toward wholeness.</p>
     <div class="hero-btns">
       <a href="#books" class="btn-primary">Explore All Books ↓</a>
-      <a href="https://www.amazon.com/author/evelynhartwell" target="_blank" class="btn-secondary">Amazon Store ↗</a>
+      <a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank" class="btn-secondary">Amazon Store ↗</a>
     </div>
   </div>
   <div class="hero-visual" id="hero-books"></div>
@@ -809,7 +811,9 @@
 <!-- AUTHOR -->
 <section class="author-section" id="about">
   <div class="author-inner">
-    <div class="author-avatar">EH</div>
+    <div class="author-avatar">
+      <img src="Evelyn_Hartwell.png" alt="Evelyn Hartwell">
+    </div>
     <div class="author-text">
       <h2>Evelyn Hartwell</h2>
       <span class="author-title">Author · Healing Guide · KDP Publisher</span>
@@ -822,9 +826,14 @@
 <section class="newsletter-section">
   <h2>New books, <em>delivered gently</em></h2>
   <p>Be the first to know when a new book is published. No noise — just quiet updates.</p>
-  <div class="newsletter-form">
-    <input type="email" placeholder="Your email address…">
-    <button type="button">Subscribe</button>
+  <div class="newsletter-form" id="newsletter-form">
+    <input type="email" id="newsletter-email" placeholder="Your email address…">
+    <button type="button" id="newsletter-btn" onclick="subscribeNewsletter()">Subscribe</button>
+  </div>
+  <div id="newsletter-success" style="display:none; margin-top:1.5rem;">
+    <p style="font-family:'Cormorant Garamond',serif; font-size:1.3rem; font-weight:300; color:var(--text-dark); font-style:italic;">
+      ✦ Thank you! A warm welcome email is on its way to you 🌿
+    </p>
   </div>
 </section>
 
@@ -833,9 +842,9 @@
   <div class="footer-links">
     <a href="#books">Books</a>
     <a href="#about">About</a>
-    <a href="https://www.amazon.com/author/evelynhartwell" target="_blank">Amazon Store</a>
+    <a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank">Amazon Store</a>
   </div>
-  <p>© 2024 Evelyn Hartwell · All books available on <a href="https://www.amazon.com/author/evelynhartwell" target="_blank">Amazon</a> · Links may include affiliate tracking</p>
+  <p>© 2024 Evelyn Hartwell · All books available on <a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank">Amazon</a> · Links may include affiliate tracking</p>
 </footer>
 
 <script>
@@ -1022,7 +1031,34 @@ document.getElementById('load-more-btn').addEventListener('click', () => {
 });
 
 loadBooks();
-</script>
+
+// NEWSLETTER — Google Sheet
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwsSs8EQC6fXXTDEjOjt1x6fypb3vQHSRprn1q6PhO4SakmHL8A3SKz_lh7uxFuptY9/exec';
+
+async function subscribeNewsletter() {
+  const email = document.getElementById('newsletter-email').value.trim();
+  if (!email || !email.includes('@')) {
+    alert('Please enter a valid email address.');
+    return;
+  }
+  const btn = document.getElementById('newsletter-btn');
+  btn.textContent = 'Sending…';
+  btn.disabled = true;
+  try {
+    await fetch(SCRIPT_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: email, date: new Date().toISOString() })
+    });
+    document.getElementById('newsletter-form').style.display = 'none';
+    document.getElementById('newsletter-success').style.display = 'block';
+  } catch {
+    btn.textContent = 'Subscribe';
+    btn.disabled = false;
+    alert('Something went wrong. Please try again.');
+  }
+}</script>
 
 </body>
 </html>
