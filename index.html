@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Evelyn Hartwell — Healing Books</title>
+<meta name="description" content="Discover healing books by Evelyn Hartwell. Gentle guides for inner peace, self-compassion, and emotional wellness. Available on Amazon.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --rose: #f8e8e8;
+    --rose-mid: #e8c4c4;
+    --rose-deep: #c4878f;
+    --sage: #e6ede6;
+    --sage-mid: #b8cdb8;
+    --sage-deep: #6b8f6b;
+    --lavender: #ede8f5;
+    --lavender-deep: #9580c0;
+    --cream: #fdfaf6;
+    --warm-white: #fffef9;
+    --text-dark: #3a3038;
+    --text-mid: #6b6070;
+    --text-light: #a09098;
+    --gold: #c8a96e;
+    --gold-light: #f0e4cc;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Jost', sans-serif;
+    background: var(--cream);
+    color: var(--text-dark);
+    line-height: 1.7;
+  }
+
+  /* ── DECORATIVE BG ── */
+  body::before {
+    content: '';
+    position: fixed;
+    top: -30%;
+    right: -20%;
+    width: 70vw;
+    height: 70vw;
+    background: radial-gradient(circle, rgba(248,232,232,0.5) 0%, rgba(237,232,245,0.3) 50%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  body::after {
+    content: '';
+    position: fixed;
+    bottom: -20%;
+    left: -15%;
+    width: 55vw;
+    height: 55vw;
+    background: radial-gradient(circle, rgba(230,237,230,0.5) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── NAV ── */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(253,250,246,0.92);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(196,135,143,0.15);
+    padding: 0 clamp(1.5rem, 5vw, 4rem);
+  }
+
+  .nav-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 68px;
+  }
+
+  .nav-logo {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--text-dark);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+  }
+
+  .nav-logo span {
+    color: var(--rose-deep);
+    font-style: italic;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+  }
+
+  .nav-links a {
+    font-size: 0.85rem;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-mid);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .nav-links a:hover { color: var(--rose-deep); }
+
+  .nav-amazon-btn {
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--warm-white) !important;
+    background: var(--rose-deep) !important;
+    padding: 0.5rem 1.2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: opacity 0.2s, transform 0.2s;
+  }
+
+  .nav-amazon-btn:hover { opacity: 0.85; transform: translateY(-1px); }
+
+  /* ── HERO ── */
+  .hero {
+    position: relative;
+    z-index: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: clamp(4rem, 10vw, 8rem) clamp(1.5rem, 5vw, 4rem) clamp(3rem, 7vw, 6rem);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .hero-text h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.8rem, 5vw, 4.5rem);
+    font-weight: 300;
+    line-height: 1.15;
+    color: var(--text-dark);
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-text h1 em {
+    color: var(--rose-deep);
+    font-style: italic;
+  }
+
+  .hero-text p {
+    font-size: 1.05rem;
+    font-weight: 300;
+    color: var(--text-mid);
+    max-width: 440px;
+    margin-bottom: 2.5rem;
+    line-height: 1.8;
+  }
+
+  .hero-btns {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--text-dark);
+    color: var(--warm-white);
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.85rem 2rem;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: background 0.2s, transform 0.2s;
+  }
+
+  .btn-primary:hover { background: var(--rose-deep); transform: translateY(-2px); }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: transparent;
+    color: var(--text-mid);
+    font-size: 0.85rem;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.85rem 2rem;
+    border-radius: 50px;
+    border: 1px solid var(--rose-mid);
+    text-decoration: none;
+    transition: border-color 0.2s, color 0.2s, transform 0.2s;
+  }
+
+  .btn-secondary:hover { border-color: var(--rose-deep); color: var(--rose-deep); transform: translateY(-2px); }
+
+  .hero-visual {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    align-items: end;
+  }
+
+  .hero-book {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(58,48,56,0.12);
+    transition: transform 0.3s;
+    aspect-ratio: 2/3;
+    background: var(--rose);
+  }
+
+  .hero-book:nth-child(2) { transform: translateY(-20px); }
+  .hero-book:hover { transform: translateY(-8px) !important; }
+
+  .hero-book img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* ── STATS BAR ── */
+  .stats-bar {
+    position: relative;
+    z-index: 1;
+    background: var(--text-dark);
+    color: var(--warm-white);
+  }
+
+  .stats-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem clamp(1.5rem, 5vw, 4rem);
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .stat-item { text-align: center; }
+
+  .stat-number {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: var(--gold);
+    display: block;
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 0.75rem;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,254,249,0.6);
+    margin-top: 0.3rem;
+    display: block;
+  }
+
+  /* ── SECTION WRAPPER ── */
+  .section {
+    position: relative;
+    z-index: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: clamp(3rem, 6vw, 5rem) clamp(1.5rem, 5vw, 4rem);
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .section-tag {
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--rose-deep);
+    display: block;
+    margin-bottom: 0.8rem;
+  }
+
+  .section-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 3.5vw, 2.8rem);
+    font-weight: 300;
+    color: var(--text-dark);
+    line-height: 1.2;
+  }
+
+  .section-title em { font-style: italic; color: var(--rose-deep); }
+
+  .section-desc {
+    font-size: 0.95rem;
+    font-weight: 300;
+    color: var(--text-mid);
+    max-width: 520px;
+    margin: 1rem auto 0;
+    line-height: 1.8;
+  }
+
+  /* ── FILTER BAR ── */
+  .filter-bar {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .filter-btn {
+    font-family: 'Jost', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.5rem 1.3rem;
+    border-radius: 50px;
+    border: 1px solid var(--rose-mid);
+    background: transparent;
+    color: var(--text-mid);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--rose-deep);
+    border-color: var(--rose-deep);
+    color: var(--warm-white);
+  }
+
+  /* ── SEARCH ── */
+  .search-wrap {
+    max-width: 440px;
+    margin: 0 auto 2rem;
+    position: relative;
+  }
+
+  .search-wrap input {
+    width: 100%;
+    padding: 0.85rem 1.2rem 0.85rem 3rem;
+    border: 1px solid var(--rose-mid);
+    border-radius: 50px;
+    background: var(--warm-white);
+    font-family: 'Jost', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-wrap input::placeholder { color: var(--text-light); }
+  .search-wrap input:focus { border-color: var(--rose-deep); }
+
+  .search-icon {
+    position: absolute;
+    left: 1.1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-light);
+    font-size: 1rem;
+  }
+
+  /* ── BOOK GRID ── */
+  .books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .book-card {
+    background: var(--warm-white);
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid rgba(196,135,143,0.12);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+  }
+
+  .book-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 16px 40px rgba(58,48,56,0.1);
+  }
+
+  .book-cover {
+    aspect-ratio: 2/3;
+    overflow: hidden;
+    background: linear-gradient(135deg, var(--rose) 0%, var(--lavender) 100%);
+    position: relative;
+  }
+
+  .book-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s;
+  }
+
+  .book-card:hover .book-cover img { transform: scale(1.04); }
+
+  .book-cover-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    text-align: center;
+  }
+
+  .book-cover-placeholder .placeholder-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.95rem;
+    font-weight: 400;
+    color: var(--text-mid);
+    line-height: 1.4;
+  }
+
+  .book-badge {
+    position: absolute;
+    top: 0.7rem;
+    right: 0.7rem;
+    background: var(--gold);
+    color: var(--text-dark);
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.6rem;
+    border-radius: 50px;
+  }
+
+  .book-info {
+    padding: 1rem 1.1rem 1.2rem;
+  }
+
+  .book-category {
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--rose-deep);
+    margin-bottom: 0.4rem;
+    display: block;
+  }
+
+  .book-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.05rem;
+    font-weight: 400;
+    color: var(--text-dark);
+    line-height: 1.35;
+    margin-bottom: 0.5rem;
+  }
+
+  .book-desc {
+    font-size: 0.78rem;
+    font-weight: 300;
+    color: var(--text-light);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 1rem;
+  }
+
+  .book-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .book-price {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-dark);
+  }
+
+  .btn-amazon {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: var(--text-dark);
+    color: var(--warm-white);
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.45rem 1rem;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+
+  .btn-amazon:hover { background: var(--rose-deep); }
+
+  /* ── LOAD MORE ── */
+  .load-more-wrap {
+    text-align: center;
+    margin-top: 3rem;
+  }
+
+  .btn-load {
+    font-family: 'Jost', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.85rem 2.5rem;
+    border-radius: 50px;
+    border: 1px solid var(--rose-mid);
+    background: transparent;
+    color: var(--text-mid);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .btn-load:hover { background: var(--rose-deep); border-color: var(--rose-deep); color: var(--warm-white); }
+
+  /* ── AUTHOR SECTION ── */
+  .author-section {
+    background: var(--text-dark);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+  }
+
+  .author-section::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -10%;
+    width: 50%;
+    height: 200%;
+    background: radial-gradient(ellipse, rgba(196,135,143,0.15) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .author-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: clamp(3.5rem, 7vw, 6rem) clamp(1.5rem, 5vw, 4rem);
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .author-avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+    border: 4px solid rgba(196,135,143,0.35);
+    box-shadow: 0 8px 32px rgba(58,48,56,0.25);
+  }
+
+  .author-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    display: block;
+  }
+
+  .author-text h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.8rem, 3vw, 2.4rem);
+    font-weight: 300;
+    color: var(--warm-white);
+    margin-bottom: 0.4rem;
+  }
+
+  .author-text .author-title {
+    font-size: 0.8rem;
+    font-weight: 300;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--rose-deep);
+    margin-bottom: 1.2rem;
+    display: block;
+  }
+
+  .author-text p {
+    font-size: 0.95rem;
+    font-weight: 300;
+    color: rgba(255,254,249,0.7);
+    line-height: 1.9;
+    max-width: 560px;
+  }
+
+  /* ── NEWSLETTER ── */
+  .newsletter-section {
+    position: relative;
+    z-index: 1;
+    background: linear-gradient(135deg, var(--rose) 0%, var(--lavender) 100%);
+    text-align: center;
+    padding: clamp(3rem, 6vw, 5rem) clamp(1.5rem, 5vw, 4rem);
+  }
+
+  .newsletter-section h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.8rem, 3vw, 2.4rem);
+    font-weight: 300;
+    color: var(--text-dark);
+    margin-bottom: 0.6rem;
+  }
+
+  .newsletter-section p {
+    font-size: 0.95rem;
+    font-weight: 300;
+    color: var(--text-mid);
+    margin-bottom: 2rem;
+  }
+
+  .newsletter-form {
+    display: flex;
+    gap: 0.8rem;
+    max-width: 440px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .newsletter-form input {
+    flex: 1;
+    min-width: 240px;
+    padding: 0.85rem 1.4rem;
+    border: 1px solid var(--rose-mid);
+    border-radius: 50px;
+    background: var(--warm-white);
+    font-family: 'Jost', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .newsletter-form input::placeholder { color: var(--text-light); }
+  .newsletter-form input:focus { border-color: var(--rose-deep); }
+
+  .newsletter-form button {
+    font-family: 'Jost', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.85rem 2rem;
+    border-radius: 50px;
+    border: none;
+    background: var(--text-dark);
+    color: var(--warm-white);
+    cursor: pointer;
+    transition: background 0.2s, transform 0.2s;
+  }
+
+  .newsletter-form button:hover { background: var(--rose-deep); transform: translateY(-1px); }
+
+  /* ── FOOTER ── */
+  footer {
+    position: relative;
+    z-index: 1;
+    background: var(--text-dark);
+    color: rgba(255,254,249,0.5);
+    text-align: center;
+    padding: 2rem clamp(1.5rem, 5vw, 4rem);
+    font-size: 0.8rem;
+    font-weight: 300;
+    letter-spacing: 0.04em;
+  }
+
+  footer a { color: var(--rose-deep); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  .footer-links {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  /* ── NO RESULTS ── */
+  .no-results {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-light);
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.3rem;
+    font-weight: 300;
+    font-style: italic;
+    grid-column: 1 / -1;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 768px) {
+    .hero {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+    .hero-text h1 { text-align: center; }
+    .hero-text p { max-width: 100%; text-align: center; }
+    .hero-btns { justify-content: center; }
+    .hero-visual { max-width: 320px; margin: 0 auto; }
+    .nav-links { display: none; }
+    .author-inner { grid-template-columns: 1fr; text-align: center; }
+    .author-avatar { margin: 0 auto; width: 140px; height: 140px; font-size: 2.8rem; }
+    .author-text p { max-width: 100%; }
+  }
+
+  @media (max-width: 480px) {
+    .books-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="#" class="nav-logo">Evelyn <span>Hartwell</span></a>
+    <ul class="nav-links">
+      <li><a href="#books">Books</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank" class="nav-amazon-btn">View on Amazon ↗</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-text">
+    <h1>Books that help<br>you <em>heal</em> &amp;<br>find your way home</h1>
+    <p>Gentle guides for inner peace, emotional wellness, and the quiet journey back to yourself. Each book a step toward wholeness.</p>
+    <div class="hero-btns">
+      <a href="#books" class="btn-primary">Explore All Books ↓</a>
+      <a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank" class="btn-secondary">Amazon Store ↗</a>
+    </div>
+  </div>
+  <div class="hero-visual" id="hero-books"></div>
+</section>
+
+<!-- STATS -->
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat-item">
+      <span class="stat-number" id="total-books-stat">100+</span>
+      <span class="stat-label">Published Books</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">⭐ 4.8</span>
+      <span class="stat-label">Average Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">50K+</span>
+      <span class="stat-label">Readers Worldwide</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">KDP</span>
+      <span class="stat-label">Available on Amazon</span>
+    </div>
+  </div>
+</div>
+
+<!-- BOOKS SECTION -->
+<section class="section" id="books">
+  <div class="section-header">
+    <span class="section-tag">✦ The Collection</span>
+    <h2 class="section-title">All <em>Healing</em> Books</h2>
+    <p class="section-desc">Each book is a gentle companion — crafted with love to support your healing journey wherever you are.</p>
+  </div>
+
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="search-input" placeholder="Search books by title or topic…">
+  </div>
+
+  <div class="filter-bar" id="filter-bar">
+    <button class="filter-btn active" data-cat="All">All</button>
+  </div>
+
+  <div class="books-grid" id="books-grid"></div>
+
+  <div class="load-more-wrap" id="load-more-wrap">
+    <button class="btn-load" id="load-more-btn">Load More Books</button>
+  </div>
+</section>
+
+<!-- AUTHOR -->
+<section class="author-section" id="about">
+  <div class="author-inner">
+    <div class="author-avatar">
+      <img src="Evelyn_Hartwell.png" alt="Evelyn Hartwell">
+    </div>
+    <div class="author-text">
+      <h2>Evelyn Hartwell</h2>
+      <span class="author-title">Author · Healing Guide · KDP Publisher</span>
+      <p>Evelyn writes books that meet you in your most tender moments — gently, without judgment. Her work spans emotional healing, self-compassion, grief, inner child work, and the quiet art of returning to yourself. With over 100 books published on Amazon KDP, she continues to share wisdom that feels like a warm hand reaching through the page.</p>
+    </div>
+  </div>
+</section>
+
+<!-- NEWSLETTER -->
+<section class="newsletter-section">
+  <h2>New books, <em>delivered gently</em></h2>
+  <p>Be the first to know when a new book is published. No noise — just quiet updates.</p>
+  <div class="newsletter-form" id="newsletter-form">
+    <input type="email" id="newsletter-email" placeholder="Your email address…">
+    <button type="button" id="newsletter-btn" onclick="subscribeNewsletter()">Subscribe</button>
+  </div>
+  <div id="newsletter-success" style="display:none; margin-top:1.5rem;">
+    <p style="font-family:'Cormorant Garamond',serif; font-size:1.3rem; font-weight:300; color:var(--text-dark); font-style:italic;">
+      ✦ Thank you! A warm welcome email is on its way to you 🌿
+    </p>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-links">
+    <a href="#books">Books</a>
+    <a href="#about">About</a>
+    <a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank">Amazon Store</a>
+  </div>
+  <p>© 2024 Evelyn Hartwell · All books available on <a href="https://north-piper-cfd.notion.site/2dec82d33b2a811da1c5e307375735aa?v=2dec82d33b2a816c9f00000c93254ddd&pvs=143" target="_blank">Amazon</a> · Links may include affiliate tracking</p>
+</footer>
+
+<script>
+// ── LOAD BOOKS FROM books.json ──
+const BOOKS_PER_PAGE = 12;
+let allBooks = [];
+let filtered = [];
+let currentPage = 1;
+let activeCategory = 'All';
+let searchQuery = '';
+
+async function loadBooks() {
+  try {
+    const res = await fetch('books.json');
+    allBooks = await res.json();
+  } catch {
+    // fallback demo data
+    allBooks = getDemoBooks();
+  }
+  init();
+}
+
+function getDemoBooks() {
+  const categories = ['Self-Compassion', 'Grief & Loss', 'Inner Child', 'Anxiety', 'Mindfulness', 'Relationships', 'Boundaries', 'Trauma Healing'];
+  const colors = [
+    ['#f8e8e8','#c4878f'], ['#e6ede6','#6b8f6b'], ['#ede8f5','#9580c0'],
+    ['#fef3e8','#c8905a'], ['#e8f0f8','#6a8fb8'], ['#fde8f0','#b87a96']
+  ];
+  const books = [];
+  for (let i = 1; i <= 120; i++) {
+    const cat = categories[Math.floor(Math.random() * categories.length)];
+    const col = colors[Math.floor(Math.random() * colors.length)];
+    const isNew = i <= 5;
+    books.push({
+      id: i,
+      title: sampleTitle(cat, i),
+      description: sampleDesc(cat),
+      category: cat,
+      amazonUrl: `https://www.amazon.com/dp/ASIN${String(i).padStart(7,'0')}`,
+      coverImage: '',
+      coverBg: col[0],
+      coverAccent: col[1],
+      badge: isNew ? 'New' : (i % 15 === 0 ? 'Bestseller' : ''),
+      price: '$' + (2.99 + (i % 7)).toFixed(2)
+    });
+  }
+  return books;
+}
+
+function sampleTitle(cat, i) {
+  const titles = {
+    'Self-Compassion': ['The Gentle Return','Being Enough','Soft Power Within','Loving What Is','Your Own Best Friend','The Inner Hug','Permission to Rest'],
+    'Grief & Loss': ['After the Silence','Walking Through Sorrow','When Someone Leaves','The Weight of Missing','Grief as a Gift','Tender Goodbyes','Holding Space'],
+    'Inner Child': ['Little You','The Child Inside','Healing Old Wounds','Playing Again','Parenting Yourself','Innocence Restored','The Forgotten Child'],
+    'Anxiety': ['Quiet the Storm','Still Waters','The Anxious Mind','Breathing Through','Gentle Calm','When Worry Speaks','Peace in the Body'],
+    'Mindfulness': ['This Moment Only','The Art of Slowing','Present Tense','Five Senses Living','Now & Here','The Mindful Morning','Stillness Practice'],
+    'Relationships': ['Loving Better','Attached & Free','The Space Between','After the Argument','Two Kinds of Love','Choosing Each Other','Repair'],
+    'Boundaries': ['The Loving No','Drawing Lines','Your Sacred Space','Enough Is Enough','Saying No Softly','What You Allow','The Protected Heart'],
+    'Trauma Healing': ['Mending the Broken','The Body Remembers','After the Storm','Roots & Wings','Reclaiming Yourself','The Long Healing','Brave and Tender']
+  };
+  const list = titles[cat] || titles['Self-Compassion'];
+  return list[i % list.length];
+}
+
+function sampleDesc(cat) {
+  const descs = {
+    'Self-Compassion': 'A gentle guide to treating yourself with the kindness you so freely give to others.',
+    'Grief & Loss': 'A compassionate companion through the landscape of loss — tender, honest, and deeply human.',
+    'Inner Child': 'Reconnect with the child within you, heal old wounds, and reclaim your joy.',
+    'Anxiety': 'Practical wisdom and soft guidance for those living with an anxious mind.',
+    'Mindfulness': 'Simple practices to return to the present moment and find peace in the ordinary.',
+    'Relationships': 'Thoughtful reflections on loving well, being loved, and the space between two people.',
+    'Boundaries': 'Learn to say no with love and yes with intention — protecting what matters most.',
+    'Trauma Healing': 'A gentle map through the terrain of healing — for those ready to begin again.'
+  };
+  return descs[cat] || descs['Self-Compassion'];
+}
+
+function init() {
+  buildCategories();
+  applyFilters();
+  renderHeroBooks();
+  updateStat();
+}
+
+function updateStat() {
+  document.getElementById('total-books-stat').textContent = allBooks.length + '+';
+}
+
+function buildCategories() {
+  const cats = ['All', ...new Set(allBooks.map(b => b.category))];
+  const bar = document.getElementById('filter-bar');
+  bar.innerHTML = '';
+  cats.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn' + (cat === activeCategory ? ' active' : '');
+    btn.dataset.cat = cat;
+    btn.textContent = cat;
+    btn.addEventListener('click', () => {
+      activeCategory = cat;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentPage = 1;
+      applyFilters();
+    });
+    bar.appendChild(btn);
+  });
+}
+
+function applyFilters() {
+  filtered = allBooks.filter(b => {
+    const matchCat = activeCategory === 'All' || b.category === activeCategory;
+    const matchSearch = !searchQuery || b.title.toLowerCase().includes(searchQuery) || b.description.toLowerCase().includes(searchQuery);
+    return matchCat && matchSearch;
+  });
+  renderBooks();
+}
+
+function renderBooks() {
+  const grid = document.getElementById('books-grid');
+  const total = Math.min(currentPage * BOOKS_PER_PAGE, filtered.length);
+  const toShow = filtered.slice(0, total);
+
+  if (toShow.length === 0) {
+    grid.innerHTML = '<p class="no-results">No books found — try a different search ✦</p>';
+    document.getElementById('load-more-wrap').style.display = 'none';
+    return;
+  }
+
+  grid.innerHTML = toShow.map(b => bookCard(b)).join('');
+
+  const hasMore = total < filtered.length;
+  document.getElementById('load-more-wrap').style.display = hasMore ? 'block' : 'none';
+}
+
+function bookCard(b) {
+  const coverHtml = b.coverImage
+    ? `<img src="${b.coverImage}" alt="${b.title}" loading="lazy">`
+    : `<div class="book-cover-placeholder" style="background:linear-gradient(145deg,${b.coverBg||'#f8e8e8'} 0%,${b.coverAccent||'#ede8f5'} 100%);">
+         <span class="placeholder-title">${b.title}</span>
+       </div>`;
+  const badge = b.badge ? `<span class="book-badge">${b.badge}</span>` : '';
+  return `
+  <div class="book-card">
+    <div class="book-cover">
+      ${coverHtml}
+      ${badge}
+    </div>
+    <div class="book-info">
+      <span class="book-category">${b.category}</span>
+      <div class="book-title">${b.title}</div>
+      <div class="book-desc">${b.description}</div>
+      <div class="book-footer">
+        <span class="book-price">${b.price || ''}</span>
+        <a href="${b.amazonUrl}" target="_blank" rel="noopener" class="btn-amazon">Amazon ↗</a>
+      </div>
+    </div>
+  </div>`;
+}
+
+function renderHeroBooks() {
+  const featured = allBooks.slice(0, 3);
+  document.getElementById('hero-books').innerHTML = featured.map(b => {
+    if (b.coverImage) {
+      return `<div class="hero-book"><img src="${b.coverImage}" alt="${b.title}"></div>`;
+    }
+    return `<div class="hero-book" style="background:linear-gradient(145deg,${b.coverBg||'#f8e8e8'} 0%,${b.coverAccent||'#ede8f5'} 100%);display:flex;align-items:center;justify-content:center;padding:1rem;">
+      <span style="font-family:'Cormorant Garamond',serif;font-size:0.85rem;color:#6b6070;text-align:center;line-height:1.4;">${b.title}</span>
+    </div>`;
+  }).join('');
+}
+
+// SEARCH
+document.getElementById('search-input').addEventListener('input', e => {
+  searchQuery = e.target.value.toLowerCase().trim();
+  currentPage = 1;
+  applyFilters();
+});
+
+// LOAD MORE
+document.getElementById('load-more-btn').addEventListener('click', () => {
+  currentPage++;
+  renderBooks();
+});
+
+loadBooks();
+
+// NEWSLETTER — Google Sheet
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwpeGBrA2gCZcbfez6U7lCnNnPlUUnqdH7sOq5QVPuuSCebfAPuAZa-JtZhec8a2w4/exec';
+
+async function subscribeNewsletter() {
+  const email = document.getElementById('newsletter-email').value.trim();
+  if (!email || !email.includes('@')) {
+    alert('Please enter a valid email address.');
+    return;
+  }
+  const btn = document.getElementById('newsletter-btn');
+  btn.textContent = 'Sending…';
+  btn.disabled = true;
+  try {
+    await fetch(SCRIPT_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: email, date: new Date().toISOString() })
+    });
+    document.getElementById('newsletter-form').style.display = 'none';
+    document.getElementById('newsletter-success').style.display = 'block';
+  } catch {
+    btn.textContent = 'Subscribe';
+    btn.disabled = false;
+    alert('Something went wrong. Please try again.');
+  }
+}</script>
+
+</body>
+</html>
