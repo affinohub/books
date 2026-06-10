@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "title": "The Magical Mirror Of The Body",
+    "description": "Why You Feel Exhausted Even When Medical Tests Are NormalColon Cleansing, Mucus Removal, and the Natural Restoration of Vitality",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4cHTQ3f",
+    "coverImage": "cover/book-001.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 2,
+    "title": "Healing Crisis Explained: Understanding The Body’s Natural Path To Renewal",
+    "description": "A Natural Healing Guide to Mucus, the Colon, and the Body’s Self-Restoring Intelligence in Midlife and Beyond",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4vZU11m",
+    "coverImage": "cover/book-002.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 3,
+    "title": "Living In Flow",
+    "description": "A Natural Path to Cleansing the Body, Restoring Vitality, and Returning to Natural Law",
+    "category": "Energy & Vitality",
+    "amazonUrl": "https://amzn.to/4w8VUsS",
+    "coverImage": "cover/book-003.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 4,
+    "title": "Clear Gut, Clear Life",
+    "description": "A Natural Healing Journey Through Fruit, Greens, and Gentle Fasting",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/48vJ4dV",
+    "coverImage": "cover/book-004.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 5,
+    "title": "The Body Remembers — But It Knows How To Let Go",
+    "description": "A Natural Healing Journey Through Biological Memory, Deep Release, and Natural Law",
+    "category": "Healing Journey",
+    "amazonUrl": "https://amzn.to/4mZuLUN",
+    "coverImage": "cover/book-005.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 6,
+    "title": "The Formula Of Life: Releasing Vitality By Letting Go",
+    "description": "Eating, Fasting, and Natural Elimination to Restore Balance According to Natural Law",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4n3pjjX",
+    "coverImage": "cover/book-006.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 7,
+    "title": "Warm Lemon Water In The Morning",
+    "description": "A 5-Minute Morning Ritual to Support Natural Cleansing, Balance, and Self-Renewal",
+    "category": "Healing Journey",
+    "amazonUrl": "https://amzn.to/3Peu2Th",
+    "coverImage": "cover/book-007.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 8,
+    "title": "The Body’s Natural Ability To Heal",
+    "description": "A Journey Back to Natural Order Through Fasting, Detoxification, and Biological Intelligence",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4n6n6nR",
+    "coverImage": "cover/book-008.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 9,
+    "title": "A Clean Colon, A Free Flow Of Energy",
+    "description": "The Intestinal Broom, Light Fasting, and a Natural Path to Inner Balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4mZw7il",
+    "coverImage": "cover/book-009.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 10,
+    "title": "Clear Memory Begins In A Clean Gut",
+    "description": "A Natural Approach to Gut Cleansing, Detoxification, and Mental Clarity",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/42HSYpk",
+    "coverImage": "cover/book-010.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 11,
+    "title": "Natural Fasting – A Healing Rest For The Body",
+    "description": "Releasing Vital Energy, Cleansing the Colon, and Restoring Life Rhythm Through Natural Law",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3QH4n6e",
+    "coverImage": "cover/book-011.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 12,
+    "title": "Living Without Breakfast, Naturally",
+    "description": "How Morning Fasting Supports Energy, Colon Balance, and a Natural Biological Rhythm",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eS4LZt",
+    "coverImage": "cover/book-012.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 13,
+    "title": "The Art Of Breaking A Fast Safely",
+    "description": "Biological Wisdom for Natural Detox, Vitality Renewal, and Gentle Healing",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tVNGCw",
+    "coverImage": "cover/book-013.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 14,
+    "title": "Short-term Fasting & Natural Healing",
+    "description": "Understanding 24–36 Hour Fasting, Colon Health, Biological Energy, and a Lifestyle Aligned with Nature",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4dfCYku",
+    "coverImage": "cover/book-014.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 15,
+    "title": "Fasting For Natural Healing",
+    "description": "Colon cleansing, detoxification, and biological energy renewal through natural rhythm",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4dj73j2",
+    "coverImage": "cover/book-015.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 16,
+    "title": "Intelligent Fasting: A Natural Path To Safe And Sustainable Healing",
+    "description": "Understanding Fasting, Detox, and Whole-Body Healing in Harmony with Natural Law",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/42M7jRz",
+    "coverImage": "cover/book-016.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 17,
+    "title": "49 Days Without Food: Rethinking Vitality And The Body’s Natural Intelligence",
+    "description": "The Legacy of Arnold Ehret and a Return to Natural Biological Rhythm",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4n2xZad",
+    "coverImage": "cover/book-017.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 18,
+    "title": "You Are Not Eating Yourself: Fasting As A Natural Art Of Healing",
+    "description": "Releasing Fear, Detoxifying the Body, and Restoring Vital Energy Through Natural Law",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4egin0t",
+    "coverImage": "cover/book-018.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 19,
+    "title": "Advanced Fasting: When A Clean Body Awakens Natural Awareness",
+    "description": "A Natural Path of Biological Cleansing and Consciousness Transformation",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/428NfIX",
+    "coverImage": "cover/book-019.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 20,
+    "title": "Intermittent Fasting 16:8 – Returning To The Body’s Natural Biological Rhythm",
+    "description": "A Natural Healing Perspective on Cleansing, Gentle Eating, and Mind–Body Balance",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/42Ej0tB",
+    "coverImage": "cover/book-020.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 21,
+    "title": "The “sin” Of Adam & Eve: The Forgotten Natural Healing Wisdom",
+    "description": "Primitive Nutrition, Fasting, Detoxification, and the Path Back to Humanity’s Natural State of Living",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4dicPS5",
+    "coverImage": "cover/book-021.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 22,
+    "title": "Why Do Cows Grow Big On Grass? The Most Misunderstood Truth About Protein, Nutrition, And Natural Healing",
+    "description": "Debunking the Protein Myth, the Power of a Clean Body, and the Natural Path to True Vitality",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4ehuZEF",
+    "coverImage": "cover/book-022.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 23,
+    "title": "What Is Illness? A Definition That Will Completely Change How You See Health",
+    "description": "How the Body Cleanses, Regenerates, and Why Symptoms Are Not the Enemy",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tUZl4H",
+    "coverImage": "cover/book-023.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 24,
+    "title": "A New Physiology Why The Heart Is Not A Pump And The Lungs Are The True Engine Of Life",
+    "description": "How the Human Body Truly Functions Through Breath, Rhythm, and Natural Law",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4unEp6d",
+    "coverImage": "cover/book-024.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 25,
+    "title": "Healing With Sunlight, Air, And Water",
+    "description": "THE ANGELS OF NATURE AND THE PATH BACK TO NATURAL VITALITY",
+    "category": "Energy & Vitality",
+    "amazonUrl": "https://amzn.to/3QFOeOp",
+    "coverImage": "cover/book-025.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 26,
+    "title": "The Colon Story: The Forgotten Key To Holistic Health",
+    "description": "Cleansing, Detoxification, and Vitality Regeneration\nAccording to the Body’s Natural Law",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eEMkYr",
+    "coverImage": "cover/book-026.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 27,
+    "title": "Inner Baptism",
+    "description": "CLEANSING THE BODY, CLARIFYING THE MIND, RESTORING THE INNER TEMPLE",
+    "category": "Mind & Soul",
+    "amazonUrl": "https://amzn.to/4td2coD",
+    "coverImage": "cover/book-027.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 28,
+    "title": "The Secret Of Hair And Beard",
+    "description": "IS HAIR AND BEARD AN “ANTENNA” OF VITAL FORCE?\nA NATURAL HEALING APPROACH THROUGH DETOXIFICATION, FASTING, AND NATURAL LIVING",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4cZhWoS",
+    "coverImage": "cover/book-028.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 29,
+    "title": "Seasonal Eating – The Forgotten Path To Natural Healing",
+    "description": "Why Eating in Harmony with Nature Matters More Than Any “Superfood” for Body, Mind, and Awareness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4t6gB5K",
+    "coverImage": "cover/book-029.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 30,
+    "title": "The Bread Of Heaven Essene Living Bread & Natural Healing Wisdom",
+    "description": "A Fireless, Mucus-Free Way of Eating and Returning to Natural Vitality",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4n5dmdu",
+    "coverImage": "cover/book-030.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 31,
+    "title": "The Mucusless Diet The Foundation Of Natural Healing",
+    "description": "A Natural Approach to Cleansing the Body, Restoring Vitality, and Returning to Biological Balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4uoo5Ch",
+    "coverImage": "cover/book-031.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 32,
+    "title": "The Transitional Diet A Safe Path Toward A Mucus-free Lifestyle",
+    "description": "A NATURAL GUIDE TO SAFE ADAPTATION, GENTLE DETOXIFICATION, AND SUSTAINABLE VITALITY",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/428LjAd",
+    "coverImage": "cover/book-032.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 33,
+    "title": "The Deadly Mistakes When Starting The Mucusless Diet",
+    "description": "A Natural Healing Guide to Avoid Detox Crises and Follow the Body’s Biological Rhythm",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4n3H5mV",
+    "coverImage": "cover/book-033.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 34,
+    "title": "The Power Of Fruit",
+    "description": "WHY FRUIT IS THE HIGHEST-LEVEL FOOD FOR THE BODY, ENERGY, AND NATURAL SELF-RENEWAL",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4tDPJeu",
+    "coverImage": "cover/book-034.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 35,
+    "title": "Will I Become Weak On A Mucusless Plant-based Diet? The Truth About Natural Energy And Real Strength",
+    "description": "A Natural Healing Perspective on Mucusless Eating, Detoxification, and Sustainable Human Vitality",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/42FSwI7",
+    "coverImage": "cover/book-035.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 36,
+    "title": "The Mucusless Shopping List A Natural Healing Guide For Beginners",
+    "description": "A Simple Guide to Cleansing the Body,\nSupporting Digestion, and Returning to Natural Living",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4cXHcvY",
+    "coverImage": "cover/book-036.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 37,
+    "title": "The Mucusless Diet Vs. Veganism: The Critical Difference In Natural Healing",
+    "description": "From Plant-Based Eating to Releasing the Body, Restoring Vitality, and Living in Harmony with Natural Law",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4dg0kGG",
+    "coverImage": "cover/book-037.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 38,
+    "title": "The Hidden Truth About Nuts",
+    "description": "WHY NUTS CAN BOTH SUPPORT AND BLOCK NATURAL HEALING",
+    "category": "Healing Journey",
+    "amazonUrl": "https://amzn.to/3QZcv1X",
+    "coverImage": "cover/book-038.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 39,
+    "title": "Cooking For Healing When Cooked Food Is Better Than Raw",
+    "description": "A Natural, Non-Extreme Approach to EatingBased on Biological Energy, Gut Awareness, and Body Intelligence",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4cXWNeV",
+    "coverImage": "cover/book-039.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 40,
+    "title": "God’s Dessert Dried Fruit And The Natural Path Of Healing",
+    "description": "How to Use Dried Fruit as a Transitional Bridge for Cleansing the Body, Stabilizing Energy, and Returning to Nature",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/48yEsng",
+    "coverImage": "cover/book-040.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 41,
+    "title": "The True Root Cause Of Joint Inflammation",
+    "description": "Why Joints Don’t “Wear Out” With Age – But Become Congested by Diet, Toxins, and Blocked Biological Flow",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4egF2K5",
+    "coverImage": "cover/book-041.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 42,
+    "title": "The 3 Worst Foods For Joint Pain And How To Reduce Inflammation Naturally In 14 Days",
+    "description": "A Practical Guide to Eliminating Inflammatory Foods, Supporting Colon Detox and Restoring Natural Body Balance Without Medication",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3PgySzo",
+    "coverImage": "cover/book-042.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 43,
+    "title": "The Lemon Honey Drink For Natural Uric Acid Support",
+    "description": "A Natural Detox Approach to Support Crystal Dissolution and Restore Alkaline Balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3QHVDg5",
+    "coverImage": "cover/book-043.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 44,
+    "title": "Natural Fasting For Arthritis Relief: A Holistic Detox And Circulation Restoration Guide",
+    "description": "Reduce Joint Inflammation Through Therapeutic Fasting, Colon Cleansing and Natural Energy Rebalancing",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/428doI0",
+    "coverImage": "cover/book-044.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 45,
+    "title": "Arthritis And The Colon: Understanding The Gut–blood Connection For Joint Wellness",
+    "description": "A Natural Detox Approach to Support Inflammation Reduction, Improve Mobility, and Restore Internal Balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3QzT9jY",
+    "coverImage": "cover/book-045.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 46,
+    "title": "Natural Joint Recovery Through Gentle Movement",
+    "description": "A Holistic Guide to Walking, Stretching, Gentle Fasting, and Natural Detox Support for Improved Mobility and Reduced Joint Stiffness",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eVjgMa",
+    "coverImage": "cover/book-046.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 47,
+    "title": "Natural Anti-inflammatory Herbs – A Simple Guide To Cleanse The Body, Support Digestion, And Restore Natural Energy",
+    "description": "DISCOVER HOW GINGER, TURMERIC, CELERY, AND ALFALFA CAN SUPPORT NATURAL HEALING, REDUCE INFLAMMATORY STRESS, AND PROMOTE HOLISTIC WELLNESS",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4egpLZM",
+    "coverImage": "cover/book-047.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 48,
+    "title": "The Natural Healing Journey: A True Story Of Recovering From A Wheelchair Through Detox, Natural Nutrition And Fasting",
+    "description": "How Detoxification, Natural Diet and Gentle Fasting Can Support the Body’s Ability to Restore Balance – An Inspiring Healing Journey",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/429snkP",
+    "coverImage": "cover/book-048.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 49,
+    "title": "Why Humid Weather Makes Your Joints Hurt More",
+    "description": "Discover the Hidden Connection Between Weather, Joint Pain, Colon Health, Fasting, and Natural Body Cleansing",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3OBWq1B",
+    "coverImage": "cover/book-049.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 50,
+    "title": "The 30-day Natural Plan For Arthritis Relief",
+    "description": "Cleanse the Body, Support Colon Health, Nourish with Natural Foods, and Use Gentle Fasting to Restore Joint Comfort and Vitality",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eVpDPA",
+    "coverImage": "cover/book-050.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 51,
+    "title": "Colon Cleansing – The First Step To Natural Healing",
+    "description": "A Natural Guide to Detoxification, Fasting, and the Mucusless Diet to Restore Energy, Improve Digestion, and Rebalance the Body",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tsy48V",
+    "coverImage": "cover/book-051.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 52,
+    "title": "Home Colon Cleansing – A Safe And Simple Guide To Natural Colon Detox",
+    "description": "Step-by-Step Natural Methods to Support Digestive Wellness, Gentle Detox, and Internal Balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tNUMcv",
+    "coverImage": "cover/book-052.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 53,
+    "title": "Does Colon Cleansing Remove Good Bacteria?the Truth About The Microbiome, Colon Health, And Natural Digestive Balance",
+    "description": "Understanding the Gut Microbiome, Colon Cleansing, Natural Fasting, and How to Restore Long-Term Digestive Health",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4ul4zGL",
+    "coverImage": "cover/book-053.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 54,
+    "title": "Signs You Need To Cleanse Your Colon Now",
+    "description": "A Natural Guide to Detox Your Body, Eliminate Mucus, Restore Energy, and Rebuild Whole-Body Vitality",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3ODetEF",
+    "coverImage": "cover/book-054.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 55,
+    "title": "The Intestinal Broom Formula By Arnold Ehret: Natural Colon Cleansing & Body Regeneration",
+    "description": "A Natural Approach to Mucus-Free Eating, Intelligent Fasting, and Detoxification for Lasting Energy and Inner Health",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4cWzcev",
+    "coverImage": "cover/book-055.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 56,
+    "title": "A True Story: What Came Out Of My Body – A Natural Detox Journey And Inner Awakening",
+    "description": "Discover the hidden truth of internal buildup, natural colon cleansing, fasting, and the path to renewed energy and clarity",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4n0vgOm",
+    "coverImage": "cover/book-056.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 57,
+    "title": "Enema Vs. Colonic: The Truth About Detox, Fasting, And Natural Healing",
+    "description": "A Complete Guide to Colon Detox, Mucus-Free Living, Fasting, and Restoring Your Body’s Natural Healing Power",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4293A0h",
+    "coverImage": "cover/book-057.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 58,
+    "title": "Constipation Is Not Just About Bowel Movements: The Truth About The Colon, Mucus, And Natural Body Cleansing",
+    "description": "Understand constipation beyond symptoms, colon detox, fasting, and a mucus-free diet to restore energy and natural balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eVsRTd",
+    "coverImage": "cover/book-058.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 59,
+    "title": "5 Natural Foods For Gentle Relief And Natural Body Cleansing",
+    "description": "A Natural Approach to Digestive Balance, Gentle Elimination, and a Non-Accumulation Lifestyle Inspired by Nature",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/42HA41S",
+    "coverImage": "cover/book-059.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 60,
+    "title": "7-day Colon Cleanse Plan For Beginners",
+    "description": "A natural guide to detox your colon, eliminate mucus, boost energy, and restore your body through conscious eating and gentle fasting",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/428vERA",
+    "coverImage": "cover/book-060.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 61,
+    "title": "Fruit – The Food Of Heaven: Detox Your Body, Restore Energy And Natural Healing",
+    "description": "Discover the power of fruit, fasting, and the body’s natural healing system based on ancient wisdom",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3QHKtbg",
+    "coverImage": "cover/book-061.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 62,
+    "title": "The Biggest Mistake When Eating Fruit For Healing And How To Avoid It",
+    "description": "A COMPLETE GUIDE TO NATURAL DETOX, SAFE CLEANSING, UNDERSTANDING FRUIT, FASTING AND TRANSITIONING WITHOUT DETOX CRISIS",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/428wCgG",
+    "coverImage": "cover/book-062.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 63,
+    "title": "The Truth About Sugar In Fruit: Does Fruit Really Cause Diabetes?",
+    "description": "Discover the Real Cause of Blood Sugar Imbalance, Mucus Formation, Colon Detox, and Natural Healing Through Fruit & Fasting",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4emyjhR",
+    "coverImage": "cover/book-063.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 64,
+    "title": "The Beginner’s Guide To Eating Fruit For Natural Healing And Detox",
+    "description": "3 SIMPLE RULES TO DETOX YOUR BODY, BOOST ENERGY, AND RESTORE NATURAL BALANCE",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/49ptroC",
+    "coverImage": "cover/book-064.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 65,
+    "title": "The Secret Of The Monomeal Diet: A Simple Way To Cleanse And Recharge Your Body Naturally",
+    "description": "Why eating one type of fruit per meal supports digestion, energy efficiency, and natural body restoration",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4n1gnvf",
+    "coverImage": "cover/book-065.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 66,
+    "title": "Top 5 Fruits For Natural Body Cleansing – A Simple Guide To Detox, Rebuild Energy, And Restore Internal Balance",
+    "description": "Discover how fruit-based cleansing supports digestion, reduces internal buildup, improves energy, and aligns your body with its natural healing process",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tLVM0H",
+    "coverImage": "cover/book-066.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 67,
+    "title": "Eating Fruit The Right Way For Sustainable Weight Loss: The Truth About Body Cleansing And Natural Balance",
+    "description": "Discover how to cleanse your body, restore metabolism, and achieve your natural weight without extreme dieting",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4ttES6d",
+    "coverImage": "cover/book-067.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 68,
+    "title": "Why Fruit Makes You Crave Fat: The Hidden Truth About Cravings And Natural Body Cleansing",
+    "description": "Understand Cravings, Mucus, Natural Detox, and How Your Body Heals When You Eat Right",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eGityP",
+    "coverImage": "cover/book-068.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 69,
+    "title": "Fruitarianism Vs Transition Diet: The Truth About Detox, Cleansing, And Natural Healing",
+    "description": "Understand Mucus, Colon Health, Fasting, and Safe Natural Detox Without Extremes",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/429xr90",
+    "coverImage": "cover/book-069.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 70,
+    "title": "One Day Fruit Healing: A Simple Natural Detox Method For Beginners",
+    "description": "A step-by-step guide to gentle cleansing, restoring energy, and reconnecting with your body through natural eating",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eVCp0n",
+    "coverImage": "cover/book-070.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 71,
+    "title": "The Flame Of Life: The Forgotten Secrets Of Living Food For Natural Healing",
+    "description": "Cleanse Your Body, Restore Natural Energy, and Awaken Your Body’s Self-Healing Power",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/48EVLTQ",
+    "coverImage": "cover/book-071.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 72,
+    "title": "Safe Raw Food Transition: A 3-step Plan To Detox Your Body And Restore Natural Energy",
+    "description": "A practical guide to reduce mucus, cleanse the colon, activate natural healing, and live in harmony with your body",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3QYh2lc",
+    "coverImage": "cover/book-072.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 73,
+    "title": "The Raw Food Myth: Why 100% Raw Is Not Always The Best For Your Health",
+    "description": "A PRACTICAL GUIDE TO BALANCING RAW AND COOKED FOODS, DETOXING SAFELY, AND ACHIEVING NATURAL HEALING",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tLyDvc",
+    "coverImage": "cover/book-073.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 74,
+    "title": "The Ideal Raw Meal: Simple Russian Salad For Natural Energy And Gentle Body Cleansing",
+    "description": "A simple guide to raw eating for better digestion, sustained energy, and a natural lifestyle reset",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3QIKDz8",
+    "coverImage": "cover/book-074.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 75,
+    "title": "Bloating On A Raw Diet – The Real Cause And Natural Solutions",
+    "description": "Understand digestion, cleanse your gut, and transition to raw eating without discomfort naturally",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tLgdL7",
+    "coverImage": "cover/book-075.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 76,
+    "title": "The Raw Food Trap: Why Complex Raw Meals Block Natural Healing",
+    "description": "Cleanse Mucus, Restore Gut Health, and Return to Simplicity for True Healing",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eGjyXp",
+    "coverImage": "cover/book-076.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 77,
+    "title": "Raw Food In Winter: Natural Ways To Stay Warm Without External Heat",
+    "description": "A Practical Guide To Detoxification, Circulation And Inner Energy Activation Through Natural Living",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3P1hv5v",
+    "coverImage": "cover/book-077.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 78,
+    "title": "Raw Fat Truth: Avocado, Coconut & Olive Oil – When They Help Or Harm Your Natural Healing Journey",
+    "description": "Understanding Mucus, Detox, and How to Use Fat Wisely to Restore Natural Energy and Balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4umaxqT",
+    "coverImage": "cover/book-078.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 79,
+    "title": "Raw Food For Rejuvenation: Cleanse Your Body And Awaken Natural Energy",
+    "description": "A natural approach to cleansing, supporting cellular renewal, and building a lifestyle for balance, vitality, and inner energy",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/49hR3eL",
+    "coverImage": "cover/book-079.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 80,
+    "title": "Do I Have To Eat Raw Forever? – The Truth About Detox, Fasting, And Natural Self-healing",
+    "description": "A Practical Guide to Raw Food, Detoxification, and Body Intelligence for Sustainable and Flexible Health",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4298xGs",
+    "coverImage": "cover/book-080.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 81,
+    "title": "You Are What You Think – Natural Healing From Mind To Body",
+    "description": "Discover the connection between thoughts, emotions, and disease – A natural approach to mental detox, fasting, and full-body healing",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4vRSoTk",
+    "coverImage": "cover/book-081.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 82,
+    "title": "Your Second Brain: The Gut-emotion Connection For Natural Mental Balance",
+    "description": "discover how digestion, body energy, and gut health influence emotional well-being and inner stability",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/3R0LNWJ",
+    "coverImage": "cover/book-082.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 83,
+    "title": "How Stress Is Eating You From The Inside: Natural Detox And Body Restoration System",
+    "description": "understanding the connection between stress, digestion, colon toxicity and natural healing through fasting, mucus-free eating and mind-body balance",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4ep4EEO",
+    "coverImage": "cover/book-083.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 84,
+    "title": "The Colon Reflex Map: Unlocking The Hidden Roots Of Disease From Within",
+    "description": "discover the connection between the colon, nervous system, and natural healing through fasting and detox",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4tcg6qL",
+    "coverImage": "cover/book-084.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 85,
+    "title": "The Healing Power Of Forgiveness: Free Your Body From The Weight Of The Past",
+    "description": "a natural guide to emotional release, detoxification, and restoring inner energy",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4uPWt9x",
+    "coverImage": "cover/book-085.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 86,
+    "title": "Laughter Is The Best Medicine A Natural Daily Massage For Your Inner Healing",
+    "description": "discover how laughter relaxes the nervous system, supports digestion, relieves stress, and awakens the body’s natural healing power",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4daYg1s",
+    "coverImage": "cover/book-086.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 87,
+    "title": "Deep Breathing: The Bridge Between The Mind And Body",
+    "description": "discover the natural healing power of breath to reduce stress, calm the nervous system, and restore inner vitality",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4tXS6ZL",
+    "coverImage": "cover/book-087.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 88,
+    "title": "Emotional Detoxwhy You Cry Or Feel Anger During Healing",
+    "description": "a natural healing journey to release suppressed emotions, calm the nervous system, and reconnect with inner peace",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4f8LjI2",
+    "coverImage": "cover/book-088.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 89,
+    "title": "Eating In Peace The One-minute Pre-meal Ritual For Better Digestion And Natural Healing",
+    "description": "discover how the nervous system, emotions, and mindful eating influence digestion, energy, and inner healing",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4u4MpcL",
+    "coverImage": "cover/book-089.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 90,
+    "title": "Emotional Immune System",
+    "description": "building inner healing through the body, meditation, nature, and gratitude",
+    "category": "Mind & Soul",
+    "amazonUrl": "https://amzn.to/4nlkSkr",
+    "coverImage": "cover/book-090.jpg",
+    "badge": "",
+    "price": ""
+  },
+  {
+    "id": 91,
+    "title": "The Secret Of Life Why An Alkaline Environment Is The Key To Healt",
+    "description": "discover how nutrition, sleep, breathing, and lifestyle habits may support internal balance, energy, and natural wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4dy9E7W",
+    "coverImage": "cover/book-091.jpg",
+    "badge": "New",
+    "price": ""
+  },
+  {
+    "id": 92,
+    "title": "The Lemon Paradox Sour On The Outside, Balanced From Within",
+    "description": "exploring body balance, natural nutrition, and simple daily habits for everyday wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4dHLvvK",
+    "coverImage": "cover/book-092.jpg",
+    "badge": "New",
+    "price": ""
+  },
+  {
+    "id": 93,
+    "title": "The 5 Top Acid-forming Enemies In Your Modern Diet",
+    "description": "A Natural Healing Guide to Acid-Alkaline Balance",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4fKdxt1",
+    "coverImage": "cover/book-093.jpg",
+    "badge": "New",
+    "price": ""
+  },
+  {
+    "id": 94,
+    "title": "Stress — The Silent Enemy That Acidifies Your Body",
+    "description": "CHRONIC STRESS — THE SILENT ENEMY THAT ACIDIFIES YOUR BODY AND DESTROYS YOUR HEALTH",
+    "category": "Mind & Soul",
+    "amazonUrl": "https://amzn.to/3Q95uLU",
+    "coverImage": "cover/book-094.jpg",
+    "badge": "New",
+    "price": ""
+  },
+  {
+    "id": 95,
+    "title": "Testing Your Body’s Ph At Home:",
+    "description": "A SIMPLE AND ACCURATE GUIDE TO ALKALINE HEALING",
+    "category": "Healing Journey",
+    "amazonUrl": "https://amzn.to/4uKPq1V",
+    "coverImage": "cover/book-095.jpg",
+    "badge": "New",
+    "price": ""
+  },
+  {
+    "id": 96,
+    "title": "Green Water Alchemy The Beginner's Guide To Fresh Green Juicing For Daily Wellness, Hydration, And Natural Vitality",
+    "description": "simple green juice recipes, fresh ingredient guides, and sustainable wellness habits for boosting hydration, supporting healthy nutrition, and creating a vibrant daily routine",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4unwgyf",
+    "coverImage": "cover/book-096.jpg",
+    "badge": "New",
+    "price": ""
+  }
+]
