@@ -5,6 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Evelyn Hartwell — Healing Books</title>
 <meta name="description" content="Discover healing books by Evelyn Hartwell. Gentle guides for inner peace, self-compassion, and emotional wellness. Available on Amazon.">
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-70JLS0Z83G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-70JLS0Z83G');
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
@@ -1033,7 +1041,7 @@ document.getElementById('load-more-btn').addEventListener('click', () => {
 loadBooks();
 
 // NEWSLETTER — Google Sheet
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz4JM71nZ5GKJj7cVf2yzYxFDAuqAQbi0I3X_oZDRsVsoWX1H1OH59u8dY4G1X523Zj/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw4ifk3JiObmdYvdWvpGvqAguheVyvvWEo2YS3MmmgfxCdb97J18-O3ZYge05Q1zO7O/exec';
 
 async function subscribeNewsletter() {
   const email = document.getElementById('newsletter-email').value.trim();
