@@ -958,5 +958,15 @@
     "coverImage": "book-096.jpg",
     "badge": "New",
     "price": ""
+  },
+  {
+    "id": 97,
+    "title": "The Acid-Alkaline Bone Health Guide",
+    "description": "How Diet, Mineral Balance, and Plant-Based Nutrition Influence Lifelong Bone Strength",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3RWidlX",
+    "coverImage": "book-097.jpg",
+    "badge": "New",
+    "price": ""
   }
 ]
