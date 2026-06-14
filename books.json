@@ -978,5 +978,15 @@
     "coverImage": "book-098.jpg",
     "badge": "New",
     "price": "$4.99"
+  },
+  {
+    "id": 99,
+    "title": "Building A Lasting Alkaline Lifestyle — Beyond Diet Alone",
+    "description": "A practical guide to balanced nutrition, gut health, mindful living, and sustainable wellness through alkaline-inspired habits",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3S6Qr6k",
+    "coverImage": "book-099.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
