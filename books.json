@@ -988,5 +988,15 @@
     "coverImage": "book-099.jpg",
     "badge": "New",
     "price": "$6.99"
+  },
+  {
+    "id": 100,
+    "title": "Why Juice Is The Fastest Medicine For Body Renewal",
+    "description": "how fresh juices support digestion, natural detox, colon wellness, cellular nourishment, and vibrant health through plant-based living",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eroFJ5",
+    "coverImage": "book-100.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
