@@ -998,5 +998,15 @@
     "coverImage": "book-100.jpg",
     "badge": "New",
     "price": "$6.99"
+  },
+  {
+    "id": 101,
+    "title": "Carrot Juice: The King Of All Juices And Why I Recommend It To Every Patient",
+    "description": "discover the science, history, and practical benefits of fresh carrot juice for healthy living, digestive wellness, and long-term nutritional support",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4eoYO4n",
+    "coverImage": "book-101.jpg",
+    "badge": "New",
+    "price": "$5.99"
   }
 ]
