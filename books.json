@@ -1008,5 +1008,15 @@
     "coverImage": "book-101.jpg",
     "badge": "New",
     "price": "$5.99"
+   },
+   {
+    "id": 102,
+    "title": "Juice Versus Smoothie: The Complete Guide To Knowing Which Heals, Which Nourishes, And When To Use Each",
+    "description": "discover the science of fiber, digestive health, gut support, nutrient absorption, and how to choose the right drink for your wellness goals",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4vWxEsH",
+    "coverImage": "book-102.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
