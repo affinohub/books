@@ -1018,5 +1018,15 @@
     "coverImage": "book-102.jpg",
     "badge": "New",
     "price": "$4.99"
+   },
+   {
+    "id": 103,
+    "title": "Five Common Mistakes That Undermine The Healing Power Of Fresh Juice — And How To Correct Them",
+    "description": "avoid hidden juicing mistakes, improve digestion, support natural detoxification, balance blood sugar, and unlock the full healing potential of fresh juice",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4eiSSez",
+    "coverImage": "book-103.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
