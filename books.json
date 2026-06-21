@@ -1028,5 +1028,15 @@
     "coverImage": "book-103.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 104,
+    "title": "Plant Blood Transfusion — The Extraordinary Healing Power Of Green Juice And Chlorophyl",
+    "description": "discover the science of chlorophyll, green juice nutrition, blood support, cellular vitality, and plant-based wellness through practical daily healing habits",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3SEBAjz",
+    "coverImage": "book-104.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
