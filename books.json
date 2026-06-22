@@ -1038,5 +1038,15 @@
     "coverImage": "book-104.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 105,
+    "title": "The Three-Day Juice Reset — Rebooting Your Body From The Inside Out",
+    "description": "discover a simple three-day juice plan to support digestion, boost natural vitality, improve daily wellness, and reconnect with healthy eating habits through fresh fruits and vegetables",
+    "category": "Detox & Cleansing",
+    "amazonUrl": "https://amzn.to/4eHxSx5",
+    "coverImage": "book-105.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
