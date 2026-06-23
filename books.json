@@ -1048,5 +1048,15 @@
     "coverImage": "book-105.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 106,
+    "title": "Which Juicer Shall You Choose — A Healer's Guide To Slow Masticating Versus Centrifugal Juicers",
+    "description": "how to choose the right juicer for better nutrient retention, fresh juice quality, and a healthier lifestyle through natural nutrition",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4uPJcx2",
+    "coverImage": "book-106.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
