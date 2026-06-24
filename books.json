@@ -1058,5 +1058,15 @@
     "coverImage": "book-106.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 107,
+    "title": "Beet Juice — The Tonic For Your Liver And Blood",
+    "description": "a practical guide to beet juice nutrition, liver support, healthy circulation, and natural wellness through daily juicing",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4uOHDPX",
+    "coverImage": "book-107.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
