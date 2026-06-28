@@ -1068,5 +1068,15 @@
     "coverImage": "book-107.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 108,
+    "title": "Juice Pulp Power: The Zero-Waste Guide To Fiber-Rich Nutrition",
+    "description": "discover practical ways to transform leftover juice pulp into nourishing foods, support digestive wellness, reduce kitchen waste, and embrace a more sustainable lifestyle",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4eyvsC3",
+    "coverImage": "book-108.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
