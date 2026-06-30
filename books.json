@@ -1078,5 +1078,15 @@
     "coverImage": "book-108.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 109,
+    "title": "The Regenerative Juice Handbook",
+    "description": "A practical guide to fresh vegetable juicing for supporting cellular wellness, natural vitality, healthy aging, and everyday nutrition alongside modern healthcare",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4xSHv4R",
+    "coverImage": "book-109.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
