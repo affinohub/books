@@ -1088,5 +1088,15 @@
     "coverImage": "book-109.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 110,
+    "title": "The Healing Smoothie Handbook",
+    "description": "a practical guide to nutrient-dense green smoothies for supporting gut health, natural energy, healthy aging, daily nutrition, and whole-body wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4gQ3wek",
+    "coverImage": "book-110.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
