@@ -1098,5 +1098,15 @@
     "coverImage": "book-110.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 111,
+    "title": "The Foundation Green Smoothie",
+    "description": "a simple 5-minute morning smoothie recipe for lasting energy, whole-food nutrition, healthy digestion, and everyday wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4oYWN3P",
+    "coverImage": "book-111.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
