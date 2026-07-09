@@ -1108,5 +1108,15 @@
     "coverImage": "book-111.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 112,
+    "title": "The Healing Smoothie Handbook 5 Mistakes That Turn A Healthy Smoothie Into A Sugar Bom",
+    "description": "how to build nutrient-dense green smoothies that support gut health, stable energy, healthy digestion, and long-term wellness using whole-food nutrition",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3Rn7b9c",
+    "coverImage": "book-112.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
