@@ -1118,5 +1118,15 @@
     "coverImage": "book-112.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 113,
+    "title": "Chew Your Smoothie: The Forgotten First Step To Better Digestion",
+    "description": "how slowing down, saliva, and mindful eating can support healthy digestion and help you get more from every smoothie",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3QZRBAj",
+    "coverImage": "book-113.jpg",
+    "badge": "New",
+    "price": "$5.99"
   }
 ]
