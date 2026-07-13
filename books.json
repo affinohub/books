@@ -1128,5 +1128,15 @@
     "coverImage": "book-113.jpg",
     "badge": "New",
     "price": "$5.99"
+    },
+   {
+    "id": 114,
+    "title": "Blend or chew?",
+    "description": "A Practical Guide to Choosing Smoothies or Whole Foods for Better Digestion, Gut Health, Natural Energy, and Lifelong Wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/44q3Yc4",
+    "coverImage": "book-114.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
