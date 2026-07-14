@@ -1138,5 +1138,15 @@
     "coverImage": "book-114.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 115,
+    "title": "Soothing Smoothies For Sensitive Stomachs",
+    "description": "a natural guide to gentle smoothies, stomach-friendly nutrition, digestive comfort, and daily wellness support for sensitive stomachs, gastritis recovery, acid discomfort, and digestive balance",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4ffYNAa",
+    "coverImage": "book-115.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
