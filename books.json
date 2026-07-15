@@ -1148,5 +1148,15 @@
     "coverImage": "book-115.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 116,
+    "title": "Healthy Fat Smoothies For Daily Wellness",
+    "description": "discover how avocado, chia seeds, and flaxseeds support nutrient absorption, sustained energy, heart health, hormonal balance, and everyday nutrition through simple whole-food smoothie recipes",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4eYSkec",
+    "coverImage": "book-116.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
