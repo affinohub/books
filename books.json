@@ -1158,5 +1158,15 @@
     "coverImage": "book-116.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 117,
+    "title": "Red Fruit Smoothies For Heart Health",
+    "description": "a natural guide to antioxidant-rich berry smoothies that support cardiovascular wellness, healthy circulation, brain function, and everyday vitality through whole-food nutrition",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4bBGbcX",
+    "coverImage": "book-117.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
