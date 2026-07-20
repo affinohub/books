@@ -1168,5 +1168,15 @@
     "coverImage": "book-117.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 118,
+    "title": "The Standard Blender Smoothie Handbook",
+    "description": "discover practical blending techniques, whole-food nutrition principles, ingredient preparation methods, and easy smoothie recipes for creating healthy daily habits with any standard blender",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4yBtXeu",
+    "coverImage": "book-118.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
