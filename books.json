@@ -1178,5 +1178,15 @@
     "coverImage": "book-118.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 119,
+    "title": "The 2-Minute Smoothie System",
+    "description": "batch prep smoothie packs for a healthy lifestyle: prepare once a week, blend in two minutes, build lasting whole-food habits, and simplify your daily nutrition",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4gKmFOU",
+    "coverImage": "book-119.jpg",
+    "badge": "New",
+    "price": "$7.99"
   }
 ]
