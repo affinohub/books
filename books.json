@@ -1188,5 +1188,15 @@
     "coverImage": "book-119.jpg",
     "badge": "New",
     "price": "$7.99"
+    },
+   {
+    "id": 120,
+    "title": "Food Combining For Gut Health",
+    "description": "discover practical food combining principles to support comfortable digestion, reduce everyday bloating, improve meal timing, and build healthier eating habits using evidence-informed natural wellness strategies",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4gZAk4Q",
+    "coverImage": "book-120.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
