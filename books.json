@@ -1198,5 +1198,15 @@
     "coverImage": "book-120.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 121,
+    "title": "Eat Fruit Alone",
+    "description": "Discover why proper fruit timing may support comfortable digestion, reduce bloating, improve nutrient absorption, and help you build healthier eating habits through the principles of natural food combining",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4pLRnd5",
+    "coverImage": "book-121.jpg",
+    "badge": "New",
+    "price": "$7.99"
   }
 ]
