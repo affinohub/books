@@ -1218,5 +1218,15 @@
     "coverImage": "book-122.jpg",
     "badge": "New",
     "price": "$7.99"
+    },
+   {
+    "id": 123,
+    "title": "The Friend That Goes With Everyone",
+    "description": "discover how leafy greens, cruciferous vegetables, alliums, fermented vegetables, and smart food combining can support digestion, nutritional balance, and everyday wellness through practical science-based natural eating",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4yOCIBU",
+    "coverImage": "book-123.jpg",
+    "badge": "New",
+    "price": "$7.99"
   }
 ]
