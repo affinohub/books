@@ -1216,7 +1216,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://link.amazon/B0c0fZbIZ",
     "coverImage": "book-122.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$7.99"
     },
    {
@@ -1228,5 +1228,15 @@
     "coverImage": "book-123.jpg",
     "badge": "New",
     "price": "$7.99"
+    },
+   {
+    "id": 124,
+    "title": "Melon Food Combining",
+    "description": "discover the digestive science, traditional wisdom, and practical food combining principles behind one of nature's most misunderstood fruits",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://link.amazon/B09tKuR4z",
+    "coverImage": "book-124.jpg",
+    "badge": "New",
+    "price": "$9.99"
   }
 ]
