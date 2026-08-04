@@ -1226,7 +1226,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4yOCIBU",
     "coverImage": "book-123.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$7.99"
     },
    {
@@ -1238,5 +1238,15 @@
     "coverImage": "book-124.jpg",
     "badge": "New",
     "price": "$9.99"
+    },
+   {
+    "id": 125,
+    "title": "The Healing Plate: Food Combining Made Simple",
+    "description": "build balanced meals with simple food combining principles, natural ingredients, practical meal plans, and everyday strategies to support healthy digestion and long-term wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4w9xM8e",
+    "coverImage": "book-125.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
