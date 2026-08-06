@@ -1246,7 +1246,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4w9xM8e",
     "coverImage": "book-125.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$6.99"
     },
    {
@@ -1258,5 +1258,15 @@
     "coverImage": "book-126.jpg",
     "badge": "New",
     "price": "$8.99"
+    },
+   {
+    "id": 127,
+    "title": "Drinking Water With Meals",
+    "description": "Discover how meal-time hydration influences stomach acid, digestive enzymes, nutrient absorption, gut health, and everyday digestive comfort through natural wellness principles and physiology",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/45tUihf",
+    "coverImage": "book-127.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
