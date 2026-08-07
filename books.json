@@ -1256,7 +1256,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4hb5qXh",
     "coverImage": "book-126.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$8.99"
     },
    {
@@ -1268,5 +1268,15 @@
     "coverImage": "book-127.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 128,
+    "title": "Fat And The Art Of Food Combining",
+    "description": "discover practical food combining principles for healthy fats, improve digestive comfort, support nutrient absorption, and build balanced everyday meals with evidence-informed nutrition and natural wellness practices",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4z4wa1W",
+    "coverImage": "book-128.jpg",
+    "badge": "New",
+    "price": "$7.99"
   }
 ]
