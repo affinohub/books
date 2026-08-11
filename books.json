@@ -1276,7 +1276,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4z4wa1W",
     "coverImage": "book-128.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$7.99"
     },
    {
@@ -1288,5 +1288,15 @@
     "coverImage": "book-129.jpg",
     "badge": "New",
     "price": "$7.99"
+    },
+   {
+    "id": 130,
+    "title": "The Hydration Reset",
+    "description": "a natural guide to hydration, water balance, daily wellness, and understanding the body's signals",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4g738Gu",
+    "coverImage": "book-130.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
