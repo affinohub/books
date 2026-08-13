@@ -1308,5 +1308,15 @@
     "coverImage": "book-131.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 132,
+    "title": "The Hydration Signals",
+    "description": "how to recognize your body's signs of dehydration, build better water habits, and support everyday wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4zhgvwi",
+    "coverImage": "book-132.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
