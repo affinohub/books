@@ -1318,5 +1318,15 @@
     "coverImage": "book-132.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 133,
+    "title": "Drinking Water Right",
+    "description": "the science of hydration, timing, temperature, and mindful water drinking for daily wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3RTxC6R",
+    "coverImage": "book-133.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
