@@ -1306,7 +1306,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4zcBY9T",
     "coverImage": "book-131.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$6.99"
     },
    {
@@ -1316,7 +1316,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4zhgvwi",
     "coverImage": "book-132.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$6.99"
     },
    {
@@ -1328,5 +1328,15 @@
     "coverImage": "book-133.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 134,
+    "title": "The Hydration Debt",
+    "description": "how coffee, tea, alcohol, and energy drinks affect your water balance—and how to drink more intelligently",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4qnEIx9",
+    "coverImage": "book-134.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
