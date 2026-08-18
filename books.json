@@ -1326,7 +1326,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/3RTxC6R",
     "coverImage": "book-133.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$4.99"
     },
    {
@@ -1348,5 +1348,15 @@
     "coverImage": "book-135.jpg",
     "badge": "New",
     "price": "$6.99"
+    },
+   {
+    "id": 136,
+    "title": "The Cucumber Juice Guide",
+    "description": "a natural approach to hydration, nutrition, skin health, and everyday wellness",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/3SlbQZR",
+    "coverImage": "book-136.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
