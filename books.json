@@ -1336,7 +1336,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4qnEIx9",
     "coverImage": "book-134.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$6.99"
     },
    {
@@ -1358,5 +1358,15 @@
     "coverImage": "book-136.jpg",
     "badge": "New",
     "price": "$4.99"
+    },
+   {
+    "id": 137,
+    "title": "The Natural Bath Ritual",
+    "description": "a science-informed guide to skin hydration, relaxation, mineral baths, essential oils, water quality, and restorative bathing",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4xSwnEj",
+    "coverImage": "book-137.jpg",
+    "badge": "New",
+    "price": "$6.99"
   }
 ]
