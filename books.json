@@ -1346,7 +1346,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4qkJH1v",
     "coverImage": "book-135.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$6.99"
     },
    {
@@ -1368,5 +1368,15 @@
     "coverImage": "book-137.jpg",
     "badge": "New",
     "price": "$6.99"
+     },
+   {
+    "id": 138,
+    "title": "Hydration Without The 8-Glass Rule",
+    "description": "a science-based guide to personalized water intake, hydration, exercise, climate, diet, and healthy daily habits",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4xI0OwA",
+    "coverImage": "book-138.jpg",
+    "badge": "New",
+    "price": "$4.99"
   }
 ]
