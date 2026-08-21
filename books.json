@@ -1356,7 +1356,7 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/3SlbQZR",
     "coverImage": "book-136.jpg",
-    "badge": "New",
+    "badge": "",
     "price": "$4.99"
     },
    {
@@ -1376,6 +1376,16 @@
     "category": "Natural Nutrition",
     "amazonUrl": "https://amzn.to/4xI0OwA",
     "coverImage": "book-138.jpg",
+    "badge": "New",
+    "price": "$4.99"
+    },
+   {
+    "id": 139,
+    "title": "Overnight Lemon Infusion",
+    "description": "a natural wellness guide to lemon water, citrus nutrition, hydration, and a mindful morning ritual",
+    "category": "Natural Nutrition",
+    "amazonUrl": "https://amzn.to/4quqIlj",
+    "coverImage": "book-139.jpg",
     "badge": "New",
     "price": "$4.99"
   }
